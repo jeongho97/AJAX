@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;AJAX02&apos; to &apos;AJAX_JSON&apos;" description="Rename resource &apos;AJAX02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AJAX02" name="AJAX_JSON" stamp="1652787909704" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;AJAX04&apos; to &apos;AJAX_DB활용가능_JSON_HashMap_List&apos;" description="Rename resource &apos;AJAX04&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AJAX04" name="AJAX_DB활용가능_JSON_HashMap_List" stamp="1652788131503" updateReferences="true"/>
+</session>
