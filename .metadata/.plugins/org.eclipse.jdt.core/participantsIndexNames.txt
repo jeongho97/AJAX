@@ -1,4 +1,6 @@
 INDEX VERSION 1.131
+E:\AJAX\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\596338454.index
+\ProjectSamples\src
 E:\AJAX\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\17104272.index
 \AJAX01\src
 E:\AJAX\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2727382646.index

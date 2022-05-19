@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="E:\AJAX\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\AJAX\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\AJAX_DB활용가능_JSON_HashMap_List" path="/AJAX_DB활용가능_JSON_HashMap_List" reloadable="true" source="org.eclipse.jst.jee.server:AJAX_DB활용가능_JSON_HashMap_List"/><Context docBase="E:\AJAX\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\AJAX_basic" path="/AJAX_basic" reloadable="true" source="org.eclipse.jst.jee.server:AJAX_basic"/></Host>
+      <Context docBase="E:\AJAX\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\AJAX\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ProjectSamples" path="/ProjectSamples" reloadable="true" source="org.eclipse.jst.jee.server:ProjectSamples"/></Host>
     </Engine>
   </Service>
 </Server>
